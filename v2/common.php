@@ -1,6 +1,6 @@
 <?php
     /*
-    Wasif Siddique, CSE 154 AI, Assignment 7
+    Wasif Siddique
     This php file contains shared code that is called in other php files to perform
     backend services such as inserting and deleting pokemons from the database, trading them
     and updating nicknames. Also throws error when necessary and prints json success message when
