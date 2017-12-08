@@ -1,4 +1,4 @@
--- Wasif Siddique, CSE 154 AI
+-- Wasif Siddique
 -- Creates a hw7 database, creates a table Pokedex with 
 -- three columns: “name” for each Pokemon’s name which also serves as the table’s PRIMARY KEY,
 -- “nickname” for Pokemon’s nickname , and “datefound” for the date and time the pokemon found
