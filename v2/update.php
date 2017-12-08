@@ -1,6 +1,6 @@
 <?php
     /*
-    Wasif Siddique, CSE 154 AI, Assignment 7
+    Wasif Siddique
     Updates a Pokemon in the Pokedex table with the given name (case-insensitive) parameter to have
     the given nickname (overwriting any previous nicknames). Throws error if pokemon is missing.
     */
