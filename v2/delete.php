@@ -1,7 +1,7 @@
 <?php
 
     /*
-    Wasif Siddique, CSE 154 AI
+    Wasif Siddique
     Given the pokemon name, deletes the corresponding pokemon name and details from
     the database. If Pokemon is missing in the database then throws an error. Given a mode
     equal removeall, removes the whole Pokdex table in the database. If passed mode isn't equal 
