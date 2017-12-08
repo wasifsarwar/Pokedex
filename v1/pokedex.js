@@ -1,6 +1,5 @@
 /*
-Wasif Siddique, CSE 154 AI
-Homework 5
+Wasif Siddique
 
 This is the javascript program that implements views for a pokedex and two pokemon cards.
 */
