@@ -1,6 +1,6 @@
 <?php
     /* 
-    Wasif Siddique, CSE 154 AI, Assignment 7
+    Wasif Siddique
     Takes player1 pokemon and player2 pokemon and swaps them. Deletes player1 pokemon from
     pokedex database and inserts player2 pokemon in player1 pokedex database. If player1 
     pokemon doesn't exist then throws error. If player1 already has player2 pokemon in 
