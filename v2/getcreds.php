@@ -1,7 +1,7 @@
 <?php
 
     /*
-    Wasif Siddique, CSE 154 AI, Assignment 7
+    Wasif Siddique
     Stores player id and token and returns them for the frontend of the game-web service
     to verify players.
     */
